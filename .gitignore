@@ -6,4 +6,5 @@ venv/
 .DS_Store
 Thumbs.db
 .vscode/
+Churn_Modelling.csv
 # The model files are intentionally NOT ignored; the app requires them.
